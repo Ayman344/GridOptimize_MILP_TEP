@@ -16,9 +16,11 @@ Solve a Mixed-Integer Linear Programming (MILP) model to determine cost-effectiv
 This project serves as both a practical case study and a reusable framework for scalable grid reinforcement planning.
 
 🗂️ Repository Structure
-1. Data
+1. Data (Any questions about the data I can answer)
 /data/raw/ — Original input Data
 
+links_de_power_150601.csv
+vertices_de_power_150601.csv
 
 Data after basic processing(eg. Imputing missing values, Handling multiple data in a single cell(voltage) and dropping columns etc.)- 
 
