@@ -1,6 +1,6 @@
-Strategic Grid Reinforcement: A MILP Optimization Approach on SciGRID
+Strategic Grid Reinforcement: A MILP Optimization Approach for the SciGRID Network
 This repository contains the data, analysis scripts, and optimization models for the research paper:
-“Optimal Grid Reinforcement Planning using DC Power Flow and MILP: A SciGRID Network Case Study”
+“Strategic Grid Reinforcement: A MILP Optimization Approach for the SciGRID Network”
 
 This project presents a comprehensive, step-by-step methodology for identifying and mitigating congestion in power transmission networks through optimal line reinforcement. It demonstrates how large-scale data analysis can be effectively combined with targeted mathematical optimization for transmission expansion planning (TEP).
 
@@ -96,5 +96,5 @@ Output data and figures are available for further inspection and use.
 If you use this repository, please cite the accompanying paper:
 
 A. S. Akash and M. S. Osman,
-“Strategic Grid Reinforcement: A MILP Optimization Approach on SciGRID,”
+“Strategic Grid Reinforcement: A MILP Optimization Approach for the SciGRID Network,”
 in Proc. Interdisciplinary Conference on Electrics and Computer (INTCEC 2025), Chicago, USA, Sep. 2025.
