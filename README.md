@@ -96,5 +96,5 @@ Output data and figures are available for further inspection and use.
 If you use this repository, please cite the accompanying paper:
 
 A. S. Akash and M. S. Osman,
-“Optimal Grid Reinforcement Planning using DC Power Flow and MILP: A SciGRID Network Case Study,”
+“Strategic Grid Reinforcement: A MILP Optimization Approach on SciGRID,”
 in Proc. Interdisciplinary Conference on Electrics and Computer (INTCEC 2025), Chicago, USA, Sep. 2025.
