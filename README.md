@@ -95,6 +95,6 @@ Output data and figures are available for further inspection and use.
 📖 Citation
 If you use this repository, please cite the accompanying paper:
 
-A. S. Akash and M. S. Osman,
+Ayman Sajjad Akash, Mojahid Saeed Osman and Harun Pirim,
 “Strategic Grid Reinforcement: A MILP Optimization Approach for the SciGRID Network,”
 in Proc. Interdisciplinary Conference on Electrics and Computer (INTCEC 2025), Chicago, USA, Sep. 2025.
