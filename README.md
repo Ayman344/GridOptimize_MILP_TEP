@@ -17,7 +17,7 @@ This project serves as both a practical case study and a reusable framework for 
 
 🗂️ Repository Structure
 1. Data
-/data/raw/ — Original input data:
+/data/raw/ — Original input data after basic processing:
 
 nodes.csv — Node data from SciGRID (substations).
 
